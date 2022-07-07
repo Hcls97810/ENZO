@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "geolib": "^2.0.24",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.10.0",
     "react": "16.6.3",
     "react-native": "0.57.8",
